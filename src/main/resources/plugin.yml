@@ -1,6 +1,6 @@
 name: CommandHook
 version: ${version}
 main: me.carrot0322.commandhook.CommandHook
-api-version: '1.20'
+api-version: '1.13'
 prefix: CommandHook
 authors: [c_arrot_]
