@@ -1,0 +1,4 @@
+CommandEvent: true
+JoinEvent: false
+ChatEvent: false
+Webhook: https://discord.com/api/webhooks/...

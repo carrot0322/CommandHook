@@ -1,5 +1,5 @@
 name: CommandHook
-version: '${version}'
+version: ${version}
 main: me.carrot0322.commandhook.CommandHook
 api-version: '1.20'
 prefix: CommandHook
